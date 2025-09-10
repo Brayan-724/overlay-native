@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Archive:** The project will continue with slint in [this repo](https://github.com/Brayan-724/stream-overlay)
+
+
 # Overlay Native
 
 Un cliente de overlay nativo para Twitch Chat que muestra mensajes de chat como ventanas flotantes semi-transparentes en el escritorio.
